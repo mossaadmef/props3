@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(https://media.ed.edmunds-media.com/mercedes-benz/c-class/2002/oem/2002_mercedes-benz_c-class_sedan_c32-amg_fq_oem_1_815x543.jpg);
+  background-position: center;
 }
 
 code {

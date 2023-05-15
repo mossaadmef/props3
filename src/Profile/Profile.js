@@ -3,7 +3,7 @@ import propTypes from 'prop-types';
 
 function Profile({fullName, bio, profession, children, handleName}) {
   return (
-    <div>
+    <div style={{color:'orangered'}}>
  <h1> {fullName} </h1>
  <p>{bio} </p>
  <h1> {profession} </h1>
